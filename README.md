@@ -18,7 +18,7 @@ Además, el usuario puede guardar los resultados en un archivo de texto.
 
 Antes de ejecutar el programa es necesario tener instalado:
 
-- Python 3.x
+- Python 3.14.3
 - Librería *Flet*
 
 ---
@@ -29,6 +29,8 @@ Primero se debe instalar la librería Flet con el siguiente comando:
 
 
 pip install flet
+
+<img width="1891" height="967" alt="image" src="https://github.com/user-attachments/assets/8f28de10-d4fd-411b-a65a-c360353847f0" />
 
 
 ---
@@ -74,13 +76,12 @@ Este archivo se guarda en la misma carpeta donde se encuentra el programa.
 ---
 
 ## Autor
-Práctica realizada para la materia de *Lenguajes Formales*.
-Qué debes subir al repositorio
+Práctica realizada por: 
+Juarez Hipolito Marco Antonio
 
-Tu repositorio debería tener algo así:
+Perez Flores Arale
 
-practica-lenguajes/
-│
-├── practica_lenguajes.py
-├── README.md
-└── resultado.txt (opcional)
+Roque Villegas Ivan
+
+Grupo: 4CM4
+
